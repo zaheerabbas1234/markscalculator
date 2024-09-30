@@ -1,3 +1,9 @@
+Exercise 4:
+Module name :Implementation of CICD with Java and open source stack
+Configure the web application and Version control using Git using Git commands and version control
+operations. 
+
+
 Grade Generator Web Application
 Overview
 The Grade Generator is a simple web application that allows users to input their marks in three programming languages: Java, Python, and C. The application calculates the total and average marks based on the input provided. It is designed to be user-friendly and provides immediate feedback on the user's input.
